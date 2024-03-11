@@ -42,5 +42,5 @@ while chutes > 0:
         break
 
 print(f"Total de jogadas: {jogadas}")
-
+print("ola")
 
